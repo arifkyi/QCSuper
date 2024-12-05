@@ -1,5 +1,13 @@
 # QCSuper
 
+Me Rifky The Cyber already Dockerize this 
+Please Watch This Video for the Docker format, effective and efficient and still able to do the other alternative Wireshark-live future in host pc.
+
+https://www.youtube.com/watch?v=_cBxPDXHP0g
+
+
+
+
 **QCSuper** is a tool communicating with Qualcomm-based phones and modems, allowing to **capture raw 2G/3G/4G** (and for certain models 5G) radio frames, among other things.
 
 It will allow you to **generate PCAP** captures of it using either a rooted Android phone, an USB dongle or an existing capture in another format.
