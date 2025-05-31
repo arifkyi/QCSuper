@@ -11,11 +11,11 @@ https://www.youtube.com/watch?v=_cBxPDXHP0g
 How To use:
 https://www.youtube.com/watch?v=_cBxPDXHP0g
 
-
 **[☕ Support on Ko-fi](https://ko-fi.com/rifkythecyber)**
-Or scan the QR code below:
 
+Or scan the QR code below:
 <img src="https://github.com/user-attachments/assets/a6529b25-06eb-4072-9077-6682aad0807a" alt="Donate" width="200">
+
 
 
 
