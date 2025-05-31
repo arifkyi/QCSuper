@@ -12,6 +12,11 @@ How To use:
 https://www.youtube.com/watch?v=_cBxPDXHP0g
 
 
+**[☕ Support on Ko-fi](https://ko-fi.com/rifkythecyber)**
+Or scan the QR code below:
+
+<img src="https://github.com/user-attachments/assets/a6529b25-06eb-4072-9077-6682aad0807a" alt="Donate" width="200">
+
 
 
 **QCSuper** is a tool communicating with Qualcomm-based phones and modems, allowing to **capture raw 2G/3G/4G** (and for certain models 5G) radio frames, among other things.
